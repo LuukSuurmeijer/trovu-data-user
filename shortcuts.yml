@@ -18,4 +18,4 @@ pytorch 1: https://pytorch.org/docs/stable/search.html?q=<query>&check_keywords=
 numpy 0: https://numpy.org/doc/1.26/
 numpy 1: https://numpy.org/doc/1.26/search.html?q=<query>
 
-etymobank 1: https://etymologiebank.nl/trefwoord/<woord>
+etybank 1: https://etymologiebank.nl/trefwoord/<woord>
