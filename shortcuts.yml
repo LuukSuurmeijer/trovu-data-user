@@ -2,7 +2,7 @@
 # https://trovu.net/docs/shortcuts/
 
 examplekeyword 0: http://www.example.com/
-examplekeyword 1: https://www.ethnologue.com/search/?q=<query>
+ethno 1: https://www.ethnologue.com/search/?q=<query>
 examplekeyword 2:
   url: http://www.example.com/?q=<query>&p=<puery>
   title: Custom shortcut
