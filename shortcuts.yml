@@ -12,3 +12,8 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
+
+pytorch 0: https://pytorch.org/docs/stable
+pytorch 1: https://pytorch.org/docs/stable/search.html?q=<query>&check_keywords=yes&area=default
+numpy 0: https://numpy.org/doc/1.26/
+numpy 1: https://numpy.org/doc/1.26/search.html?q=<query>
