@@ -1,6 +1,7 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
+ethno 1: https://www.ethnologue.com/search/?q=<query>
 examplekeyword 0: http://www.example.com/
 examplekeyword 1: http://www.example.com/?q=<query>
 examplekeyword 2:
@@ -9,4 +10,3 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
-ethno 1: https://www.ethnologue.com/search/?q=<query>
