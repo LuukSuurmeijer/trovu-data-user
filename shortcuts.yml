@@ -9,3 +9,7 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
+ethno: 
+  url: https://www.ethnologue.com/search/?q=<query>
+  title: Ethnologue
+  description: Searching languages
